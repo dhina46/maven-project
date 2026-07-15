@@ -9,3 +9,5 @@ Hi, this is for CI and CD
 
 Azure
 AWS
+
+Practicing Azure Devops Pipeline
